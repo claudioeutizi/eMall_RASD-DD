@@ -21,7 +21,7 @@ battery: set Battery,
 }
 
 sig DSO{
-	cpo: some CPO,
+cpo: some CPO,
 }
 
 sig Socket{}

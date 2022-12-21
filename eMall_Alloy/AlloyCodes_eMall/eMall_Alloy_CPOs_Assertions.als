@@ -21,7 +21,7 @@ battery: set Battery,
 }
 
 sig DSO{
-	cpo: some CPO,
+cpo: some CPO,
 }
 
 
@@ -118,32 +118,28 @@ all c:CS | #c.battery <=3
 
 //* * * * * * * * * * Assertions* * * * * * * * * *
 
-
 //Check if a CPO has more Operators
 assert moreOperatorsInSameCPO{
 all c:CPO, o1,o2:Operator |
 o1 in c.operator and o2 in c.operator implies o1 = o2
 }
-check moreOperatorsInSameCPO for 10
 
-
-/*
 //Check if a Operator has more CSs
 assert moreCSsInSameOperator{
 all o:Operator, s1,s2: CS |
 s1 in o.cs and s2 in o.cs implies s1=s2
 }
-check moreCSsInSameOperator for 10
-*/
 
-/*
 //Check if a CPO has more DSO
 assert moreDSOtoCPO{
 all c1,c2 : CPO, d:DSO |
 d in c1.mydso and d in c2.mydso implies c1=c2
 }
-check moreDSOtoCPO for 10
-*/
+
+check moreOperatorsInSameCPO for 10
+//check moreCSsInSameOperator for 10
+//check moreDSOtoCPO for 10
+
 
 
 

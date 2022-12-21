@@ -9,8 +9,8 @@ sig Driver{ reservation : some Reservation}
 sig Socket{reservation : some Reservation}
 
 sig Reservation{ 
-	rd: some Driver,	//rd = reservation for drivers
-	rs: some Socket,	//rs = reservation for sockets
+	rd: one Driver,	//rd = reservation for drivers
+	rs: one Socket,	//rs = reservation for sockets
 	time: one Time
 }
 
