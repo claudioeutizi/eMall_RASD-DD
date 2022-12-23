@@ -66,14 +66,21 @@ fact connectionSocketReservation{
 all s : Socket , r: Reservation | s in r.rs <=> r in s.reservation
 }
 
-//* * * * * * * * * * Predicates* * * * * * * * * *
+/* * * * * * * * * * Assertion* * * * * * * * * * */
 
-pred show{
-#Socket >=3
-#Driver >=2
-#Reservation>=2
+assert noTwoIdenticalReservations{
+all r1,r2:Reservation, d:Driver, s:Socket, t:Time |
+d in r1.rd and s in r1.rs and t in r1.time and d in r2.rd and s in r2.rs and t in r2.time implies r1 = r2
 }
-run show for 10
+
+assert noTwoDriversSameReservation{
+all  d1,d2:Driver,r:Reservation, s:Socket, t:Time |
+s in r.rs and t in r.time and d1 in r.rd and d2 in r.rd implies d1=d2
+}
+
+check noTwoIdenticalReservations for 10
+
+//check noTwoDriversSameReservation for 10
 
 
 

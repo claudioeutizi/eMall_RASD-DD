@@ -1,6 +1,6 @@
 open util / integer
 
-//* * * Signatures * * *
+// * * * * * * * * * * Signatures * * * * * * * * * * 
 
 sig CF{}
 sig OperatorID{}
@@ -27,7 +27,6 @@ sig Operator extends User{
 	businessEmail : one BusinessEmail,
 	password : one Password,
 }
-
 
 // * * * * * * * * * * Facts * * * * * * * * * * 
 
@@ -94,6 +93,7 @@ all c : User , u: Coordinates | c in u.coordinates <=> u in c. coordinates
 
 
 //* * * * * * * * * * Predicates* * * * * * * * * *
+
 pred show{
 #Operator >=2
 #Driver >=2

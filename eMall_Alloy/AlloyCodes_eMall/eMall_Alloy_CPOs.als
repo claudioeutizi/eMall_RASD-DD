@@ -1,37 +1,43 @@
 open util / integer
 
-//* * * Signatures * * *
+// * * * * * * * * * * Signatures * * * * * * * * * * 
+
+sig Socket{}
+
+sig DSO{
+	cpo: some CPO,
+}
+
+sig Battery{
+	cs: one CS,
+}
 
 sig CPO{
-operator: some Operator,
-mydso: one DSO,
+	operator: some Operator,
+	mydso: one DSO,
+}
+
+sig Point{
+	socket: some Socket,
+	cs : one CS,
 }
 
 sig Operator{
-cpo: one CPO,
-cs:some CS,
+	cpo: one CPO,
+	cs:some CS,
 }
 
 sig CS{
-operator : one Operator,
-cpo: one CPO,
-dso: one DSO,
-cp: some Point,
-battery: set Battery,
+	operator : one Operator,
+	cpo: one CPO,
+	dso: one DSO,
+	cp: some Point,
+	battery: set Battery,
 }
 
-sig DSO{
-cpo: some CPO,
-}
 
-sig Socket{}
-sig Battery{cs: one CS}
-sig Point{
-socket: some Socket,
-cs : one CS	
-}
 
-/* * * * FACTS * * * * */
+// * * * * * * * * * * Facts * * * * * * * * * * 
 
 //Every CS has one DSO from the same CPO
 fact CStoDSOsameCPO{
@@ -98,6 +104,7 @@ s in o.cs and o in s.operator implies s.cpo = o.cpo
 fact connectionPointToCS{
 all c : CS, p : Point | c in p.cs <=> p in c.cp
 }
+
 //Connection between Operator and CS
 fact connectionBatteriesCS{
 all b:Battery | some c:CS | b in c.battery
@@ -113,13 +120,13 @@ all b: Battery, c: CS | b in c.battery <=> c in b.cs
 fact moreSocketInCP{
 all p:Point | #p.socket >=2
 }
+
 //There are CS with more batteries
 fact morebatteriesInCS{
 all c:CS | #c.battery <=3
 }
 
 //* * * * * * * * * * Predicates* * * * * * * * * *
-
 
 pred show{
 #CPO>=3
