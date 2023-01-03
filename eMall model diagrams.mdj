@@ -11401,9 +11401,9 @@
 																"$ref": "AAAAAAGE3l7ItVyXu94="
 															},
 															"font": "Arial;13;0",
-															"left": 46.55908203125,
+															"left": 48.72998046875,
 															"top": 13,
-															"width": 141.0673828125,
+															"width": 151.998046875,
 															"height": 13,
 															"text": "driverRegistrationDiagram"
 														},
@@ -11416,7 +11416,7 @@
 															"font": "Arial;13;1",
 															"left": 29,
 															"top": 13,
-															"width": 12.55908203125,
+															"width": 14.72998046875,
 															"height": 13,
 															"text": "sd"
 														}
@@ -12713,9 +12713,9 @@
 																"$ref": "AAAAAAGE3nL92GIddbI="
 															},
 															"font": "Arial;13;0",
-															"left": 71.99365234375,
+															"left": 72.72998046875,
 															"top": 379,
-															"width": 55.86279296875,
+															"width": 58.80810546875,
 															"height": 13,
 															"text": "!validData"
 														},
@@ -12728,7 +12728,7 @@
 															"font": "Arial;13;1",
 															"left": 53,
 															"top": 379,
-															"width": 13.99365234375,
+															"width": 14.72998046875,
 															"height": 13,
 															"text": "alt"
 														},
@@ -12793,7 +12793,7 @@
 																			"font": "Arial;13;0",
 																			"left": 68,
 																			"top": 455,
-																			"width": 28.869140625,
+																			"width": 31.07177734375,
 																			"height": 13,
 																			"text": "[else]"
 																		}
@@ -13229,9 +13229,9 @@
 																"$ref": "AAAAAAGE3mXUnl8Nh7c="
 															},
 															"font": "Arial;13;0",
-															"left": 30.55908203125,
+															"left": 32.72998046875,
 															"top": 21,
-															"width": 108.57373046875,
+															"width": 114.43896484375,
 															"height": 13,
 															"text": "driverLoginDiagram"
 														},
@@ -13244,7 +13244,7 @@
 															"font": "Arial;13;1",
 															"left": 13,
 															"top": 21,
-															"width": 12.55908203125,
+															"width": 14.72998046875,
 															"height": 13,
 															"text": "sd"
 														}
@@ -14399,9 +14399,9 @@
 																"$ref": "AAAAAAGE3m1sfWEQhuE="
 															},
 															"font": "Arial;13;0",
-															"left": 47.99365234375,
+															"left": 48.72998046875,
 															"top": 373,
-															"width": 55.86279296875,
+															"width": 58.80810546875,
 															"height": 13,
 															"text": "!validData"
 														},
@@ -14414,7 +14414,7 @@
 															"font": "Arial;13;1",
 															"left": 29,
 															"top": 373,
-															"width": 13.99365234375,
+															"width": 14.72998046875,
 															"height": 13,
 															"text": "alt"
 														},
@@ -14479,7 +14479,7 @@
 																			"font": "Arial;13;0",
 																			"left": 44,
 																			"top": 464,
-																			"width": 28.869140625,
+																			"width": 31.07177734375,
 																			"height": 13,
 																			"text": "[else]"
 																		}
@@ -15058,9 +15058,9 @@
 																"$ref": "AAAAAAGFBfKwmaHvPsc="
 															},
 															"font": "Arial;13;0",
-															"left": 78.55908203125,
+															"left": 80.72998046875,
 															"top": 13,
-															"width": 217.60107421875,
+															"width": 235.8125,
 															"height": 13,
 															"text": "driverInsertNewPaymentMethodDiagram"
 														},
@@ -15073,7 +15073,7 @@
 															"font": "Arial;13;1",
 															"left": 61,
 															"top": 13,
-															"width": 12.55908203125,
+															"width": 14.72998046875,
 															"height": 13,
 															"text": "sd"
 														}
@@ -16347,9 +16347,9 @@
 																"$ref": "AAAAAAGFCtWcNhz4PZs="
 															},
 															"font": "Arial;13;0",
-															"left": 143.99365234375,
+															"left": 144.72998046875,
 															"top": 389,
-															"width": 55.86279296875,
+															"width": 58.80810546875,
 															"height": 13,
 															"text": "!validData"
 														},
@@ -16362,7 +16362,7 @@
 															"font": "Arial;13;1",
 															"left": 125,
 															"top": 389,
-															"width": 13.99365234375,
+															"width": 14.72998046875,
 															"height": 13,
 															"text": "alt"
 														},
@@ -16427,7 +16427,7 @@
 																			"font": "Arial;13;0",
 																			"left": 140,
 																			"top": 465,
-																			"width": 28.869140625,
+																			"width": 31.07177734375,
 																			"height": 13,
 																			"text": "[else]"
 																		}
@@ -17913,9 +17913,9 @@
 																"$ref": "AAAAAAGFDHq21SnIYVA="
 															},
 															"font": "Arial;13;0",
-															"left": 30.55908203125,
+															"left": 32.72998046875,
 															"top": 13,
-															"width": 117.009765625,
+															"width": 128.16259765625,
 															"height": 13,
 															"text": "startChargingDiagram"
 														},
@@ -17928,7 +17928,7 @@
 															"font": "Arial;13;1",
 															"left": 13,
 															"top": 13,
-															"width": 12.55908203125,
+															"width": 14.72998046875,
 															"height": 13,
 															"text": "sd"
 														}
@@ -20204,9 +20204,9 @@
 																"$ref": "AAAAAAGFNQWsbfIeigM="
 															},
 															"font": "Arial;13;0",
-															"left": 127.99365234375,
+															"left": 128.72998046875,
 															"top": 637,
-															"width": 158.40283203125,
+															"width": 175.85888671875,
 															"height": 13,
 															"text": "!moneyReservationSuccessful"
 														},
@@ -20219,7 +20219,7 @@
 															"font": "Arial;13;1",
 															"left": 109,
 															"top": 637,
-															"width": 13.99365234375,
+															"width": 14.72998046875,
 															"height": 13,
 															"text": "alt"
 														},
@@ -20284,7 +20284,7 @@
 																			"font": "Arial;13;0",
 																			"left": 124,
 																			"top": 736,
-																			"width": 28.869140625,
+																			"width": 31.07177734375,
 																			"height": 13,
 																			"text": "[else]"
 																		}
@@ -21699,9 +21699,9 @@
 																"$ref": "AAAAAAGFDHs+vSqjdGI="
 															},
 															"font": "Arial;13;0",
-															"left": 38.55908203125,
+															"left": 40.72998046875,
 															"top": 21,
-															"width": 116.298828125,
+															"width": 127.45166015625,
 															"height": 13,
 															"text": "stopChargingDiagram"
 														},
@@ -21714,7 +21714,7 @@
 															"font": "Arial;13;1",
 															"left": 21,
 															"top": 21,
-															"width": 12.55908203125,
+															"width": 14.72998046875,
 															"height": 13,
 															"text": "sd"
 														}
@@ -24821,9 +24821,9 @@
 																"$ref": "AAAAAAGFNJuz7+zb18Q="
 															},
 															"font": "Arial;13;0",
-															"left": 30.55908203125,
+															"left": 32.72998046875,
 															"top": 21,
-															"width": 141.07373046875,
+															"width": 152.00439453125,
 															"height": 13,
 															"text": "driverBookSocketDiagram"
 														},
@@ -24836,7 +24836,7 @@
 															"font": "Arial;13;1",
 															"left": 13,
 															"top": 21,
-															"width": 12.55908203125,
+															"width": 14.72998046875,
 															"height": 13,
 															"text": "sd"
 														}
@@ -27155,9 +27155,9 @@
 																"$ref": "AAAAAAGFNdWkzm1V0EQ="
 															},
 															"font": "Arial;13;0",
-															"left": 30.55908203125,
+															"left": 32.72998046875,
 															"top": 13,
-															"width": 169.59375,
+															"width": 177.54736328125,
 															"height": 13,
 															"text": "driverViewActiveChargingView"
 														},
@@ -27170,7 +27170,7 @@
 															"font": "Arial;13;1",
 															"left": 13,
 															"top": 13,
-															"width": 12.55908203125,
+															"width": 14.72998046875,
 															"height": 13,
 															"text": "sd"
 														}
@@ -27881,9 +27881,9 @@
 																"$ref": "AAAAAAGFNdt8am7fWWU="
 															},
 															"font": "Arial;13;0",
-															"left": 119.99365234375,
+															"left": 120.72998046875,
 															"top": 229,
-															"width": 146.36767578125,
+															"width": 156.13671875,
 															"height": 13,
 															"text": "noActiveChargingAvailable"
 														},
@@ -27896,7 +27896,7 @@
 															"font": "Arial;13;1",
 															"left": 101,
 															"top": 229,
-															"width": 13.99365234375,
+															"width": 14.72998046875,
 															"height": 13,
 															"text": "alt"
 														},
@@ -27961,7 +27961,7 @@
 																			"font": "Arial;13;0",
 																			"left": 116,
 																			"top": 305,
-																			"width": 28.869140625,
+																			"width": 31.07177734375,
 																			"height": 13,
 																			"text": "[else]"
 																		}
@@ -28350,9 +28350,9 @@
 																"$ref": "AAAAAAGFNd4qe29RKF0="
 															},
 															"font": "Arial;13;0",
-															"left": 138.11181640625,
+															"left": 139.578125,
 															"top": 429,
-															"width": 90.2861328125,
+															"width": 96.3798828125,
 															"height": 13,
 															"text": "chargingIsActive"
 														},
@@ -28365,7 +28365,7 @@
 															"font": "Arial;13;1",
 															"left": 109,
 															"top": 429,
-															"width": 24.11181640625,
+															"width": 25.578125,
 															"height": 13,
 															"text": "loop"
 														},
@@ -29528,7 +29528,7 @@
 									"font": "Arial;13;0",
 									"left": 357,
 									"top": 108.5,
-									"width": 61,
+									"width": 62.01904296875,
 									"height": 25,
 									"stereotypeLabel": {
 										"$ref": "AAAAAAGE2Q7TEFIakTo="
@@ -29728,7 +29728,7 @@
 									"font": "Arial;13;0",
 									"left": 341,
 									"top": 239,
-									"width": 138,
+									"width": 139.2890625,
 									"height": 38,
 									"stereotypeLabel": {
 										"$ref": "AAAAAAGE2TKQ51hegt4="
@@ -30777,7 +30777,7 @@
 									"font": "Arial;13;0",
 									"left": 512.5,
 									"top": 276.5,
-									"width": 78,
+									"width": 78.62451171875,
 									"height": 25,
 									"stereotypeLabel": {
 										"$ref": "AAAAAAGE2TTT4mJTHXs="
@@ -30973,7 +30973,7 @@
 									"font": "Arial;13;0",
 									"left": 292.5,
 									"top": 156.5,
-									"width": 98,
+									"width": 98.89892578125,
 									"height": 25,
 									"stereotypeLabel": {
 										"$ref": "AAAAAAGE2TW0dmKN00w="
@@ -31167,7 +31167,7 @@
 									"font": "Arial;13;0",
 									"left": 308,
 									"top": 244.5,
-									"width": 94,
+									"width": 95.22998046875,
 									"height": 25,
 									"stereotypeLabel": {
 										"$ref": "AAAAAAGE2TX842K7QMc="
@@ -31367,7 +31367,7 @@
 									"font": "Arial;13;0",
 									"left": 303,
 									"top": 319,
-									"width": 110,
+									"width": 110.40087890625,
 									"height": 38,
 									"stereotypeLabel": {
 										"$ref": "AAAAAAGE2TZJwGLrccM="
@@ -31564,7 +31564,7 @@
 									"font": "Arial;13;0",
 									"left": 315.5,
 									"top": 420.5,
-									"width": 94,
+									"width": 94.49365234375,
 									"height": 25,
 									"stereotypeLabel": {
 										"$ref": "AAAAAAGE2TbNtGMiriw="
@@ -33225,7 +33225,7 @@
 									"font": "Arial;13;0",
 									"left": 285,
 									"top": 495,
-									"width": 138,
+									"width": 139.2890625,
 									"height": 38,
 									"stereotypeLabel": {
 										"$ref": "AAAAAAGFKuHMfc3tLbw="
@@ -33698,7 +33698,7 @@
 									"font": "Arial;13;0",
 									"left": 276.5,
 									"top": 556.5,
-									"width": 173,
+									"width": 173.9853515625,
 									"height": 25,
 									"stereotypeLabel": {
 										"$ref": "AAAAAAGFNcVeJQrU2/A="
@@ -35038,7 +35038,7 @@
 									"font": "Arial;13;0",
 									"left": 246.5,
 									"top": 207,
-									"width": 147,
+									"width": 147.24267578125,
 									"height": 38,
 									"stereotypeLabel": {
 										"$ref": "AAAAAAGE2T7X9JSG0Gk="
@@ -35238,7 +35238,7 @@
 									"font": "Arial;13;0",
 									"left": 266,
 									"top": 292.5,
-									"width": 85,
+									"width": 85.841796875,
 									"height": 25,
 									"stereotypeLabel": {
 										"$ref": "AAAAAAGE2T9O9JS6dBc="
@@ -35438,7 +35438,7 @@
 									"font": "Arial;13;0",
 									"left": 258.5,
 									"top": 351,
-									"width": 126,
+									"width": 127.01904296875,
 									"height": 38,
 									"stereotypeLabel": {
 										"$ref": "AAAAAAGE2T+IopTp/uE="
@@ -36723,7 +36723,7 @@
 									"font": "Arial;13;0",
 									"left": 589.5,
 									"top": 248.5,
-									"width": 64,
+									"width": 64.90087890625,
 									"height": 38,
 									"stereotypeLabel": {
 										"$ref": "AAAAAAGE2UJ0UKhRXnc="
@@ -37304,7 +37304,7 @@
 									"font": "Arial;13;0",
 									"left": 245,
 									"top": 415,
-									"width": 138,
+									"width": 139.2890625,
 									"height": 38,
 									"stereotypeLabel": {
 										"$ref": "AAAAAAGFBdWqgf+rWcg="
@@ -37871,7 +37871,7 @@
 									"font": "Arial;13;0",
 									"left": 245,
 									"top": 495,
-									"width": 138,
+									"width": 139.2890625,
 									"height": 38,
 									"stereotypeLabel": {
 										"$ref": "AAAAAAGFOXCl8PxAK1Y="
@@ -43573,9 +43573,9 @@
 																"$ref": "AAAAAAGE3nWURmKAAOA="
 															},
 															"font": "Arial;13;0",
-															"left": 30.55908203125,
+															"left": 32.72998046875,
 															"top": 13,
-															"width": 123.73193359375,
+															"width": 133.234375,
 															"height": 13,
 															"text": "OperatorLoginDiagram"
 														},
@@ -43588,7 +43588,7 @@
 															"font": "Arial;13;1",
 															"left": 13,
 															"top": 13,
-															"width": 12.55908203125,
+															"width": 14.72998046875,
 															"height": 13,
 															"text": "sd"
 														}
@@ -44746,9 +44746,9 @@
 																"$ref": "AAAAAAGE3nsUrGuVh5g="
 															},
 															"font": "Arial;13;0",
-															"left": 55.99365234375,
+															"left": 56.72998046875,
 															"top": 373,
-															"width": 55.86279296875,
+															"width": 58.80810546875,
 															"height": 13,
 															"text": "!validData"
 														},
@@ -44761,7 +44761,7 @@
 															"font": "Arial;13;1",
 															"left": 37,
 															"top": 373,
-															"width": 13.99365234375,
+															"width": 14.72998046875,
 															"height": 13,
 															"text": "alt"
 														},
@@ -44826,7 +44826,7 @@
 																			"font": "Arial;13;0",
 																			"left": 52,
 																			"top": 449,
-																			"width": 28.869140625,
+																			"width": 31.07177734375,
 																			"height": 13,
 																			"text": "[else]"
 																		}
@@ -45877,9 +45877,9 @@
 																"$ref": "AAAAAAGFDHZaziAYxgs="
 															},
 															"font": "Arial;13;0",
-															"left": 30.55908203125,
+															"left": 32.72998046875,
 															"top": 13,
-															"width": 108.58642578125,
+															"width": 120.21533203125,
 															"height": 13,
 															"text": "chooseDSODiagram"
 														},
@@ -45892,7 +45892,7 @@
 															"font": "Arial;13;1",
 															"left": 13,
 															"top": 13,
-															"width": 12.55908203125,
+															"width": 14.72998046875,
 															"height": 13,
 															"text": "sd"
 														}
@@ -48461,9 +48461,9 @@
 																"$ref": "AAAAAAGFDHapliDl7cE="
 															},
 															"font": "Arial;13;0",
-															"left": 30.55908203125,
+															"left": 32.72998046875,
 															"top": 13,
-															"width": 207.05126953125,
+															"width": 220.42578125,
 															"height": 13,
 															"text": "ModifyChargingStationPriceAndOffers"
 														},
@@ -48476,7 +48476,7 @@
 															"font": "Arial;13;1",
 															"left": 13,
 															"top": 13,
-															"width": 12.55908203125,
+															"width": 14.72998046875,
 															"height": 13,
 															"text": "sd"
 														}
@@ -49854,9 +49854,9 @@
 																"$ref": "AAAAAAGFDIzKhTA1080="
 															},
 															"font": "Arial;13;0",
-															"left": 87.99365234375,
+															"left": 88.72998046875,
 															"top": 477,
-															"width": 55.86279296875,
+															"width": 58.80810546875,
 															"height": 13,
 															"text": "!validData"
 														},
@@ -49869,7 +49869,7 @@
 															"font": "Arial;13;1",
 															"left": 69,
 															"top": 477,
-															"width": 13.99365234375,
+															"width": 14.72998046875,
 															"height": 13,
 															"text": "alt"
 														},
@@ -49934,7 +49934,7 @@
 																			"font": "Arial;13;0",
 																			"left": 84,
 																			"top": 553,
-																			"width": 28.869140625,
+																			"width": 31.07177734375,
 																			"height": 13,
 																			"text": "[else]"
 																		}
@@ -50542,9 +50542,9 @@
 																"$ref": "AAAAAAGFDHw7QSvawnU="
 															},
 															"font": "Arial;13;0",
-															"left": 30.55908203125,
+															"left": 32.72998046875,
 															"top": 13,
-															"width": 221.02880859375,
+															"width": 242.34423828125,
 															"height": 13,
 															"text": "viewChargingStationPointsStatusDiagram"
 														},
@@ -50557,7 +50557,7 @@
 															"font": "Arial;13;1",
 															"left": 13,
 															"top": 13,
-															"width": 12.55908203125,
+															"width": 14.72998046875,
 															"height": 13,
 															"text": "sd"
 														}
@@ -51954,9 +51954,9 @@
 																"$ref": "AAAAAAGFDJT+uDhUkd8="
 															},
 															"font": "Arial;13;0",
-															"left": 30.55908203125,
+															"left": 32.72998046875,
 															"top": 13,
-															"width": 234.720703125,
+															"width": 257.51513671875,
 															"height": 13,
 															"text": "viewChargingStationBatteriesStatusDiagram"
 														},
@@ -51969,7 +51969,7 @@
 															"font": "Arial;13;1",
 															"left": 13,
 															"top": 13,
-															"width": 12.55908203125,
+															"width": 14.72998046875,
 															"height": 13,
 															"text": "sd"
 														}
@@ -53366,9 +53366,9 @@
 																"$ref": "AAAAAAGFDJdhODtYVNE="
 															},
 															"font": "Arial;13;0",
-															"left": 30.55908203125,
+															"left": 32.72998046875,
 															"top": 13,
-															"width": 189.4873046875,
+															"width": 205.49609375,
 															"height": 13,
 															"text": "viewAndSetSupplySettingsDiagram"
 														},
@@ -53381,7 +53381,7 @@
 															"font": "Arial;13;1",
 															"left": 13,
 															"top": 13,
-															"width": 12.55908203125,
+															"width": 14.72998046875,
 															"height": 13,
 															"text": "sd"
 														}
@@ -54759,9 +54759,9 @@
 																"$ref": "AAAAAAGFDJdhOTub9NE="
 															},
 															"font": "Arial;13;0",
-															"left": 87.99365234375,
+															"left": 88.72998046875,
 															"top": 477,
-															"width": 55.86279296875,
+															"width": 58.80810546875,
 															"height": 13,
 															"text": "!validData"
 														},
@@ -54774,7 +54774,7 @@
 															"font": "Arial;13;1",
 															"left": 69,
 															"top": 477,
-															"width": 13.99365234375,
+															"width": 14.72998046875,
 															"height": 13,
 															"text": "alt"
 														},
@@ -54839,7 +54839,7 @@
 																			"font": "Arial;13;0",
 																			"left": 84,
 																			"top": 553,
-																			"width": 28.869140625,
+																			"width": 31.07177734375,
 																			"height": 13,
 																			"text": "[else]"
 																		}
@@ -66986,6 +66986,14 @@
 						"$ref": "AAAAAAFF+qBWK6M3Z8Y="
 					},
 					"name": "viewChargingStation ExternalStatus"
+				},
+				{
+					"_type": "UMLDeploymentDiagram",
+					"_id": "AAAAAAGFeBEWTXO5BFs=",
+					"_parent": {
+						"$ref": "AAAAAAFF+qBWK6M3Z8Y="
+					},
+					"name": "DeploymentDiagram1"
 				}
 			]
 		},
@@ -76393,9 +76401,9 @@
 									},
 									"font": "Arial;13;0",
 									"left": 378,
-									"top": 190,
+									"top": 183,
 									"width": 124.99169921875,
-									"height": 13,
+									"height": 26,
 									"alpha": 1.5707963267948966,
 									"distance": 15,
 									"hostEdge": {
